@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/witp_proj/static/css/main.073c9b0a.css",
+    "main.js": "/witp_proj/static/js/main.7c9fe943.js",
+    "static/js/787.b0b45b60.chunk.js": "/witp_proj/static/js/787.b0b45b60.chunk.js",
+    "static/media/logo.svg": "/witp_proj/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/witp_proj/index.html",
+    "main.073c9b0a.css.map": "/witp_proj/static/css/main.073c9b0a.css.map",
+    "main.7c9fe943.js.map": "/witp_proj/static/js/main.7c9fe943.js.map",
+    "787.b0b45b60.chunk.js.map": "/witp_proj/static/js/787.b0b45b60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7c9fe943.js"
+  ]
+}
